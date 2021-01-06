@@ -22,7 +22,7 @@ public class MyController extends HttpServlet{
 		res.setCharacterEncoding("UTF-8");
 		
 		PrintWriter outPrint = res.getWriter();
-		
+		System.out.println("AAAA");
 				
 	}
 	
