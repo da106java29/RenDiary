@@ -22,8 +22,7 @@ public class MyController extends HttpServlet{
 		res.setCharacterEncoding("UTF-8");
 		
 		PrintWriter outPrint = res.getWriter();
-		Gson json = new Gson();
-//		String jsonStr = JsonToStringUtil.getJsonToString(is);
+		
 				
 	}
 	
